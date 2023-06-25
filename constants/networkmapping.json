@@ -1,5 +1,8 @@
 {
   "11155111": {
-    "NftMarketplace": "0x38e5BB961AEb21A8E93150f1cbFd114F159bd949"
+    "NftMarketplace": ["0x38e5BB961AEb21A8E93150f1cbFd114F159bd949"]
+  },
+  "31337": {
+    "NftMarketplace": []
   }
 }
